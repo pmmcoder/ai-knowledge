@@ -1,0 +1,7 @@
+# Obsidian 本地配置与工作区状态，因机器而异，不入库
+.obsidian/
+
+# macOS
+.DS_Store
+CLAUDE.md
+*.canvas
